@@ -30,7 +30,7 @@ Obfuscript is a powerful tool designed to encrypt C# .NET code for free. It offe
 To start using Obfuscript, follow these simple steps:
 
 1. Download the latest version of the application from the releases page.
-2. Install the application on your computer.
+2. Unzip the folder and run the application.
 3. Obtain the **free** license key: `FREETIER`.
 
 ## Usage
