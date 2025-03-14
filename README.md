@@ -20,10 +20,10 @@ Obfuscript is a powerful tool designed to encrypt C# .NET code for free. It offe
 - **Disguiser:** Renames fields, events, methods, and properties.
 - **BloatAndConfuse:** Adds extra scripts and confuses integers.
 - **NoDebug:** Stops your file from being debugged.
-- **MetaData Killer:** Invalidates MetaData.
+- **MetaData Killer:** Invalidates MetaData. Also causes dysfunction on some decompilers (e.g. dotPeek. It is unable to any open classes when you've used MetaData Killer)
 - **Changer:** Changes strings, integers, etc., into types.
 - **Garbage Disposal:** Throws in some garbage to flood the code and properties.
-- **dnSpy Killer:** Throws errors in the dnSpy Decompiler.
+- **dnSpy Killer:** Throws errors in the dnSpy Decompiler, and sometimes may completely crash the application and the user's computer.
 
 ## Getting Started
 
