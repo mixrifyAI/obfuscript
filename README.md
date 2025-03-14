@@ -52,4 +52,4 @@ Obfuscript is currently available under a free tier license system. Use the key 
 
 ## Contact
 
-Opening a discord server soon.
+[Join Discod Server](https://discord.gg/wmq3nU9YXM)
