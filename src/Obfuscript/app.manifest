@@ -1,0 +1,10 @@
+﻿<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+		<security>
+			<requestedPrivileges>
+				<!-- Set "requireAdministrator" to enforce admin rights -->
+				<requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+</assembly>
