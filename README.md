@@ -16,6 +16,8 @@ Obfuscript is a powerful tool designed to encrypt C# .NET code for free. It offe
 
 ## Features
 
+### Protection Methods
+
 - **String Encryption:** Encrypts and replaces all strings.
 - **Disguiser:** Renames fields, events, methods, and properties.
 - **BloatAndConfuse:** Adds extra scripts and confuses integers.
@@ -24,6 +26,14 @@ Obfuscript is a powerful tool designed to encrypt C# .NET code for free. It offe
 - **Changer:** Changes strings, integers, etc., into types.
 - **Garbage Disposal:** Throws in some garbage to flood the code and properties.
 - **dnSpy Killer:** Throws errors in the dnSpy Decompiler, and sometimes may completely crash the application and the user's computer.
+- **Control Flow Obfuscation:** Disrupts logical flow by randomizing blocks, adding opaque predicates, and inserting junk code.
+
+### Other
+
+- **Watermark Your Application to support us:** We provide obfuscript's features and services all for free, and we appreciate when users credit us. This is a way to support us as we do not support payments. (2 second watermark pop-up) <br>Visual Example:
+
+![image](https://github.com/user-attachments/assets/c5925011-a892-41b1-8d13-e151a44a8f25)
+
 
 ## Getting Started
 
@@ -42,7 +52,8 @@ To start using Obfuscript, follow these simple steps:
 
 ## Screenshots
 
-![Screenshot 2025-03-13 161910](https://github.com/user-attachments/assets/c4eddc3a-29fe-45d8-9107-396b996c5b44)
+![image](https://github.com/user-attachments/assets/c9740817-b571-4129-8bf9-08eb38d1defb)
+
 
 Explore the various protection methods offered by Obfuscript to find the best combination for your needs.
 
