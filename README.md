@@ -14,6 +14,10 @@
 
 Obfuscript is a powerful tool designed to encrypt C# .NET code for free. It offers a variety of protection methods to ensure your code remains secure while maintaining its integrity. With a user-friendly interface, developers can easily protect their executables and DLLs from unauthorized access and reverse engineering.
 
+## <img src="https://github.com/user-attachments/assets/0817ee18-fa22-4b72-937a-272812bd896d" alt="Obfuscript Logo" width="20"/> Future Plans (Moving obfuscript into a freemium app and service)
+
+Having a license system, we are planning on keeping obfuscript a **freemium application** and soon enough keeping it closed-source. We are going to keep the current source code to attract developers, however, we are not going to offer obfuscript's new code to ensure safety and security for users who have paid for obfuscript's services. We are going to include monthly and yearly plans that cover specific protection methods (only the newly added), while other protection methods will be offered for free. As of now, we are planning to introduce a monthly plan of **$9.99/month** and a yearly plan of **$99.9/year** ___(20.1% less than the monthly plan)___.
+
 ## Features
 
 ### Protection Methods
@@ -34,7 +38,6 @@ Obfuscript is a powerful tool designed to encrypt C# .NET code for free. It offe
 
 ![image](https://github.com/user-attachments/assets/c5925011-a892-41b1-8d13-e151a44a8f25)
 
-
 ## Getting Started
 
 To start using Obfuscript, follow these simple steps:
@@ -54,12 +57,11 @@ To start using Obfuscript, follow these simple steps:
 
 ![image](https://github.com/user-attachments/assets/c9740817-b571-4129-8bf9-08eb38d1defb)
 
-
 Explore the various protection methods offered by Obfuscript to find the best combination for your needs.
 
 ## License
 
-Obfuscript is currently available under a free tier license system. Use the key `FREETIER` to unlock the features.
+obfuscript is currently available under a free tier license system. Use the key `FREETIER` to unlock the features.<br>
 
 ## Contact
 
