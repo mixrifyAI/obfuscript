@@ -14,9 +14,10 @@
 
 Obfuscript is a powerful tool designed to encrypt C# .NET code for free. It offers a variety of protection methods to ensure your code remains secure while maintaining its integrity. With a user-friendly interface, developers can easily protect their executables and DLLs from unauthorized access and reverse engineering.
 
-## <img src="https://github.com/user-attachments/assets/0817ee18-fa22-4b72-937a-272812bd896d" alt="Obfuscript Logo" width="20"/> Future Plans (Moving obfuscript into a freemium app and service)
+## <img src="https://github.com/user-attachments/assets/0817ee18-fa22-4b72-937a-272812bd896d" alt="Obfuscript Logo" width="20"/> Abandonment
 
-Having a license system, we are planning on keeping obfuscript a **freemium application** and soon enough keeping it closed-source. We are going to keep the current source code to attract developers, however, we are not going to offer obfuscript's new code to ensure safety and security for users who have paid for obfuscript's services. We are going to include monthly and yearly plans that cover specific protection methods (only the newly added), while other protection methods will be offered for free. As of now, we are planning to introduce monthly plans starting from **$9.99/month** and yearly plans starting from **$99.9/year** ___(20.1% less than the monthly plan)___.
+This project has been abandoned.
+Reasoning is my dumb*ss forgot to backup the source code, and somehow it just disappeared. I don't know how or when I must have lost it or possibly deleted it without even noticing. It pains me to have to abandon this project, but I cannot begin from scratch again and promise the same performance, results and features.
 
 ## Features
 
